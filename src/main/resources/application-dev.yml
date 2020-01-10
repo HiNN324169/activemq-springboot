@@ -1,0 +1,16 @@
+server:
+  port: 8080 # 配置服务器端口
+  servlet:
+    context-path: /activemq-springboot # 项目名称
+
+spring:
+  activemq: # 配置activemq
+    broker-url: tcp://127.0.0.1:61616
+    user: admin
+    password: admin
+    pool:
+      max-connections: 100
+  jms:
+    pub-sub-domain: false # false 代表队列，true 主题；
+
+queue.name: boot-queue-name # 自定义一个队列名称（取数据：@Value("${queue.name}")）
