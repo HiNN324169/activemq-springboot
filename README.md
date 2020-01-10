@@ -1,5 +1,7 @@
 # ActiveMQ + springboot 整合 
 
+GitHub-URL：https://github.com/HiNN324169/activemq-springboot
+
 版本说明
 - springboot.varsion：2.2.2.RELEASE
 - spring.version：5.2.2.RELEASE
@@ -13,6 +15,7 @@
 ### 二、引入所需依赖
 - 见 pom.xml
 
+---
 ## 【queue】
 ### 三、创建 application-dev.yml 配置文件
 ```$xslt
@@ -161,8 +164,7 @@ public class MyBroker {
 - 生产者 每隔两秒发送消息
 - 定时器 时刻监听消息 并获取消息
 
-
-
+---
 ## 【Topic】
 
 

@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c8e41b78-3a33-41c2-b692-900cbbd27d99" name="Default Changelist" comment="" />
+    <list default="true" id="c8e41b78-3a33-41c2-b692-900cbbd27d99" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,6 +34,7 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1WBsfrbdmrzaR8NhSc4n8r7MZJd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="abbreviatePackageNames" value="true" />
     <option name="autoscrollFromSource" value="true" />
@@ -143,34 +147,50 @@
       <option name="presentableId" value="Default" />
       <updated>1578634429478</updated>
       <workItem from="1578634446949" duration="9000" />
-      <workItem from="1578634805918" duration="8005000" />
+      <workItem from="1578634805918" duration="8323000" />
     </task>
+    <task id="LOCAL-00001" summary="activemq 和 springboot 的整合">
+      <created>1578643014529</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1578643014529</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="activemq 和 springboot 的整合" />
+    <option name="LAST_COMMIT_MESSAGE" value="activemq 和 springboot 的整合" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="445" y="132" key="CommitChangelistDialog2" timestamp="1578643011141">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="445" y="132" key="CommitChangelistDialog2/1920.131.1366.768/0.0.1920.1080@0.0.1920.1080" timestamp="1578643011141" />
     <state x="740" y="281" key="FileChooserDialogImpl" timestamp="1578642870752">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="740" y="281" key="FileChooserDialogImpl/1920.131.1366.768/0.0.1920.1080@0.0.1920.1080" timestamp="1578642870752" />
-    <state width="1860" height="475" key="GridCell.Tab.0.bottom" timestamp="1578640963838">
+    <state width="930" height="312" key="GridCell.Tab.0.bottom" timestamp="1578643058047">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1860" height="475" key="GridCell.Tab.0.bottom/1920.131.1366.768/0.0.1920.1080@0.0.1920.1080" timestamp="1578640963838" />
-    <state width="1860" height="475" key="GridCell.Tab.0.center" timestamp="1578640963837">
+    <state width="930" height="312" key="GridCell.Tab.0.bottom/1920.131.1366.768/0.0.1920.1080@0.0.1920.1080" timestamp="1578643058047" />
+    <state width="930" height="312" key="GridCell.Tab.0.center" timestamp="1578643058047">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1860" height="475" key="GridCell.Tab.0.center/1920.131.1366.768/0.0.1920.1080@0.0.1920.1080" timestamp="1578640963837" />
-    <state width="1860" height="475" key="GridCell.Tab.0.left" timestamp="1578640963837">
+    <state width="930" height="312" key="GridCell.Tab.0.center/1920.131.1366.768/0.0.1920.1080@0.0.1920.1080" timestamp="1578643058047" />
+    <state width="930" height="312" key="GridCell.Tab.0.left" timestamp="1578643058047">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1860" height="475" key="GridCell.Tab.0.left/1920.131.1366.768/0.0.1920.1080@0.0.1920.1080" timestamp="1578640963837" />
-    <state width="1860" height="475" key="GridCell.Tab.0.right" timestamp="1578640963838">
+    <state width="930" height="312" key="GridCell.Tab.0.left/1920.131.1366.768/0.0.1920.1080@0.0.1920.1080" timestamp="1578643058047" />
+    <state width="930" height="312" key="GridCell.Tab.0.right" timestamp="1578643058047">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1860" height="475" key="GridCell.Tab.0.right/1920.131.1366.768/0.0.1920.1080@0.0.1920.1080" timestamp="1578640963838" />
+    <state width="930" height="312" key="GridCell.Tab.0.right/1920.131.1366.768/0.0.1920.1080@0.0.1920.1080" timestamp="1578643058047" />
     <state width="1860" height="486" key="GridCell.Tab.1.bottom" timestamp="1578640739390">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -191,6 +211,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="461" y="182" key="SettingsEditor/1920.131.1366.768/0.0.1920.1080@0.0.1920.1080" timestamp="1578639906221" />
+    <state x="552" y="273" key="Vcs.Push.Dialog.v2" timestamp="1578643037112">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="552" y="273" key="Vcs.Push.Dialog.v2/1920.131.1366.768/0.0.1920.1080@0.0.1920.1080" timestamp="1578643037112" />
     <state x="623" y="239" width="672" height="678" key="search.everywhere.popup" timestamp="1578640865201">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
