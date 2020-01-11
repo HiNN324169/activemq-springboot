@@ -10,7 +10,10 @@ spring:
     password: admin
     pool:
       max-connections: 100
+    packages:
+      trust-all: true # 信任所有包
   jms:
-    pub-sub-domain: false # false 代表队列，true 主题；
+    pub-sub-domain: true # false 代表队列，true 主题；
 
 queue.name: boot-queue-name # 自定义一个队列名称（取数据：@Value("${queue.name}")）
+topic.name: boot-topic-name # 自定义一个队列名称（取数据：@Value("${topic.name}")）

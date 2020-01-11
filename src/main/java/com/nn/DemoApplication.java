@@ -10,7 +10,7 @@ import org.springframework.scheduling.annotation.EnableScheduling;
 @EnableJms
 
 // 启用 定时发送
-@EnableScheduling
+//@EnableScheduling
 public class DemoApplication {
 
     public static void main(String[] args) {

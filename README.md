@@ -167,6 +167,12 @@ public class MyBroker {
 ---
 ## 【Topic】
 
+- 修改参数
+```angular2
+  jms:
+    pub-sub-domain: true # false 代表队列，true 主题；
+```
+
 
 
 
